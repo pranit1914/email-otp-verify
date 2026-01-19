@@ -26,5 +26,5 @@ Users can request an OTP via email and verify it to confirm their identity.
 
 ---
 
-## 📁 Project Structure
+
 
